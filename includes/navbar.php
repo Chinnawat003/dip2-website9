@@ -1,6 +1,6 @@
-<nav class="navbar navbar-expand-lg navbar-dark shadow" style="background-color: #234257;">
+<nav class="navbar navbar-expand-lg navbar-dark sticky-top shadow" style="background-color: #406882;">
   <div class="container">
-    <a class="navbar-brand" href="#">Navbar</a>
+    <a class="navbar-brand" href="#">Chinnawat</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -9,11 +9,9 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
-
         <li class="nav-item">
           <a class="nav-link" href="#">เกี่ยงกับเรา</a>
         </li>
-
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             เมนู
@@ -27,11 +25,9 @@
             <li><a class="dropdown-item" href="#">ออกจากระบบ</a></li>
           </ul>
         </li>
-
         <li class="nav-item">
           <a class="nav-link" href="login.php">Login</a>
         </li>
-
         <li class="nav-item">
           <a class="nav-link" href="register.php">Register</a>
         </li>
