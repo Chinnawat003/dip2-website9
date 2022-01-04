@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark sticky-top shadow" style="background-color: #406882;">
+<nav class="navbar navbar-expand-lg navbar-dark sticky-top shadow" style="background-color: #0000A0;">
   <div class="container">
     <a class="navbar-brand" href="#">Chinnawat</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
