@@ -139,7 +139,7 @@
                     <form action="news_code.php" method="POST" enctype="multipart/form-data">
                         <div class="modal-body">
                             <div class="form-group">
-                                <label>หัวข้อข่าว</label>
+                                <label>หัวข้อข่าวประจำวัน</label>
                                 <textarea rows="2" cols="100" name="head" class="form-control" placeholder="เพิ่ม-หัวข้อข่าว"></textarea>
                             </div>
 
